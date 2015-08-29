@@ -37,9 +37,6 @@
             text-align: center;
             font-size: 30px;
         }
-        .links span {
-            color: #555;
-        }
         .footer{
             position: absolute;
             bottom: 5px;
@@ -69,8 +66,8 @@
         Thank you for listening!
     </div>
     <div class="links">
-        <a href="http://joind.in/14644"><span>http://</span>joind.in/14644</a><br>
-        <a href="http://src.id.au/phpnz15"><span>http://</span>src.id.au/phpnz15</a>
+        <a href="https://joind.in/14644">joind.in/14644</a><br>
+        <a href="http://src.id.au/phpnz15">src.id.au/phpnz15</a>
     </div>
 
     <div class="footer">
