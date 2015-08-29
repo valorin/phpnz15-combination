@@ -21,21 +21,21 @@
             width: 100%;
             background: url('/bg.png') no-repeat center;
             background-size: cover;
-            color: #fff;
+            color: #ddd;
         }
         a {
-            color: #fff;
+            color: #ddd;
             text-decoration: none;
         }
         .message {
             padding: 10px;
             text-align: center;
-            font-size: 50px;
+            font-size: 45px;
         }
         .links {
             padding: 10px;
             text-align: center;
-            font-size: 30px;
+            font-size: 25px;
         }
         .footer{
             position: absolute;
@@ -43,7 +43,7 @@
             right: 5px;
             padding: 5px;
             background-color: rgba(100, 100, 100, 0.5);
-            font-size: 20px;
+            font-size: 15px;
             text-align: right;
         }
         .copyright {
